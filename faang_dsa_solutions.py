@@ -1,4 +1,4 @@
-"""FAANG-style Python DSA interview solutions.
+"""FAANG-style Python DSA interview solutions
 
 Each function is small, interview-ready, and side-effect free.  Run this file
 with ``python faang_dsa_solutions.py`` for a tiny smoke test.  The examples in
