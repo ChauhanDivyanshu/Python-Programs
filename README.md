@@ -1,4 +1,4 @@
-# Python Programs
+# Python Programs:
 
 Basic Python practice programs plus a curated, interview-ready **FAANG DSA question bank**.
 
